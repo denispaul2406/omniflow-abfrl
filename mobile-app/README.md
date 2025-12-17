@@ -1,8 +1,20 @@
-# OmniFlow - Mobile App
+<div align="center">
+
+# 📱 OmniFlow - Mobile App
 
 **Omni-Conversational Sales Orchestrator | Mobile Application**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://omniflow-mobile.netlify.app/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](LICENSE)
+
 A next-generation AI-powered shopping experience that seamlessly integrates multi-channel commerce, personalized recommendations, and conversational commerce for Aditya Birla Fashion & Retail Limited.
+
+**[🌐 Live Demo](https://omniflow-mobile.netlify.app/)** • **[📦 Repository](https://github.com/denispaul2406/omniflow-mobile)** • **[🖥️ Kiosk App](https://omniflow-kiosk.vercel.app/)**
+
+</div>
 
 ---
 
@@ -19,6 +31,7 @@ A next-generation AI-powered shopping experience that seamlessly integrates mult
 - [User Flows](#-user-flows)
 - [Development](#-development)
 - [Deployment](#-deployment)
+- [Related Projects](#-related-projects)
 
 ---
 
@@ -26,13 +39,13 @@ A next-generation AI-powered shopping experience that seamlessly integrates mult
 
 OmniFlow Mobile App is a React-based progressive web application that delivers a unified, AI-driven shopping experience across multiple channels. It enables customers to browse products, receive personalized recommendations, manage their cart, and seamlessly transition between mobile, web, WhatsApp, and in-store kiosk experiences.
 
-### Business Value
+### 💼 Business Value
 
-- **Multi-Channel Integration**: Seamless shopping across web, mobile, WhatsApp, and physical stores
-- **AI-Powered Personalization**: Intelligent product recommendations with cross-brand collaboration
-- **Session Continuity**: Visible session IDs ensure seamless multi-device shopping
-- **Conversational Commerce**: Natural language interface for intuitive product discovery
-- **Loyalty Integration**: Real-time points tracking and automatic discount application
+- 🔄 **Multi-Channel Integration**: Seamless shopping across web, mobile, WhatsApp, and physical stores
+- 🤖 **AI-Powered Personalization**: Intelligent product recommendations with cross-brand collaboration
+- 🔗 **Session Continuity**: Visible session IDs ensure seamless multi-device shopping
+- 💬 **Conversational Commerce**: Natural language interface for intuitive product discovery
+- 🎁 **Loyalty Integration**: Real-time points tracking and automatic discount application
 
 ---
 
@@ -141,6 +154,11 @@ OmniFlow Mobile App is a React-based progressive web application that delivers a
 │  │  users   │  │ products │  │   cart   │  │  orders  │     │
 │  └──────────┘  └──────────┘  └──────────┘  └──────────┘     │
 └─────────────────────────────────────────────────────────────┘
+                          │
+┌─────────────────────────┴────────────────────────────────────┐
+│         [Kiosk App](https://omniflow-kiosk.vercel.app/)      │
+│         Scans QR Code → Syncs Session                        │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -158,8 +176,8 @@ OmniFlow Mobile App is a React-based progressive web application that delivers a
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd mobile-app
+   git clone https://github.com/denispaul2406/omniflow-mobile.git
+   cd omniflow-mobile
    ```
 
 2. **Install dependencies**
@@ -173,7 +191,7 @@ OmniFlow Mobile App is a React-based progressive web application that delivers a
 
 3. **Set up environment variables**
    
-   Create a `.env` file in the `mobile-app` directory:
+   Create a `.env` file in the root directory:
    ```env
    VITE_SUPABASE_URL=your_supabase_project_url
    VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_anon_key
@@ -309,7 +327,7 @@ This application follows the **Aditya Birla Fashion & Retail** brand guidelines:
 - Visible session IDs across all pages
 - Session-based cart persistence
 - Seamless multi-device experience
-- QR code sync with kiosk
+- QR code sync with [kiosk app](https://omniflow-kiosk.vercel.app/)
 
 ### 2. AI-Powered Recommendations
 
@@ -356,7 +374,7 @@ This application follows the **Aditya Birla Fashion & Retail** brand guidelines:
 - Session ID display
 
 **Integration:**
-- Scans kiosk QR codes
+- Scans [kiosk app](https://omniflow-kiosk.vercel.app/) QR codes
 - Syncs cart and preferences
 - Visual confirmation
 - Seamless transition to kiosk
@@ -429,7 +447,7 @@ All tables have RLS enabled with public read access for demo purposes. In produc
 
 4. **Try Before You Buy** (`/try-before-buy`)
    - Display session ID
-   - Scan kiosk QR code or continue online
+   - Scan [kiosk QR code](https://omniflow-kiosk.vercel.app/) or continue online
    - Success confirmation modal
 
 5. **Checkout** (`/checkout`)
@@ -494,6 +512,10 @@ npm run import-products
 
 ## 🚀 Deployment
 
+### 🌐 Live Application
+
+**Deployed at:** [omniflow-mobile.netlify.app](https://omniflow-mobile.netlify.app/)
+
 ### Build for Production
 
 ```bash
@@ -510,8 +532,8 @@ Ensure these are set in your production environment:
 
 ### Hosting Options
 
-- **Vercel** - Recommended for React apps
-- **Netlify** - Easy deployment with CI/CD
+- **Netlify** - ✅ Currently deployed (recommended for React apps)
+- **Vercel** - Easy deployment with CI/CD
 - **AWS Amplify** - Enterprise hosting
 - **GitHub Pages** - Static hosting
 
@@ -550,9 +572,17 @@ Ensure these are set in your production environment:
 
 ---
 
+## 🔗 Related Projects
+
+- **[🖥️ Kiosk App](https://omniflow-kiosk.vercel.app/)** - In-store kiosk interface for seamless shopping experience
+- **[📦 Kiosk Repository](https://github.com/denispaul2406/omniflow-kiosk)** - Next.js kiosk application source code
+- **[📦 Root Repository](https://github.com/denispaul2406/omniflow-abfrl)** - Complete monorepo with all components
+
+---
+
 ## 🤝 Contributing
 
-This is a hackathon project for ABFRL. For contributions or questions, please contact the development team.
+This is a hackathon project for **Aditya Birla Fashion & Retail Limited**. For contributions or questions, please contact the development team.
 
 ---
 
@@ -578,4 +608,10 @@ For technical support or questions about this project, please reach out to the d
 
 ---
 
+<div align="center">
+
 **Built with ❤️ for ABFRL**
+
+[⬆ Back to Top](#-omniflow---mobile-app)
+
+</div>

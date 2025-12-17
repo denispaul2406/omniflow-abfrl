@@ -1,8 +1,20 @@
-# OmniFlow - Kiosk App
+<div align="center">
+
+# 🖥️ OmniFlow - Kiosk App
 
 **Next.js-based Kiosk Interface for Seamless In-Store Shopping Experience**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omniflow-kiosk.vercel.app/)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](LICENSE)
+
 A modern, touchscreen-optimized kiosk application that integrates with the mobile app to provide a unified omnichannel shopping experience across all ABFRL retail touchpoints.
+
+**[🌐 Live Demo](https://omniflow-kiosk.vercel.app/)** • **[📦 Repository](https://github.com/denispaul2406/omniflow-kiosk)** • **[📱 Mobile App](https://omniflow-mobile.netlify.app/)**
+
+</div>
 
 ---
 
@@ -19,6 +31,7 @@ A modern, touchscreen-optimized kiosk application that integrates with the mobil
 - [User Flows](#-user-flows)
 - [Development](#-development)
 - [Deployment](#-deployment)
+- [Related Projects](#-related-projects)
 
 ---
 
@@ -26,13 +39,13 @@ A modern, touchscreen-optimized kiosk application that integrates with the mobil
 
 OmniFlow Kiosk App is a Next.js-based application designed for large touchscreen displays in physical retail stores. It enables customers to seamlessly continue their shopping journey from mobile to in-store, find products, handle out-of-stock scenarios, and complete purchases with integrated payment processing.
 
-### Business Value
+### 💼 Business Value
 
-- **Seamless Channel Transition**: Customers can start shopping on mobile and continue in-store without friction
-- **Product Discovery**: Interactive store map helps customers locate products quickly
-- **Inventory Management**: Real-time stock checking and alternative suggestions
-- **Unified Experience**: Same cart, same session, same preferences across channels
-- **Increased Conversion**: Reduces cart abandonment by enabling in-store completion
+- 🔄 **Seamless Channel Transition**: Customers can start shopping on mobile and continue in-store without friction
+- 🗺️ **Product Discovery**: Interactive store map helps customers locate products quickly
+- 📦 **Inventory Management**: Real-time stock checking and alternative suggestions
+- 🔗 **Unified Experience**: Same cart, same session, same preferences across channels
+- 📈 **Increased Conversion**: Reduces cart abandonment by enabling in-store completion
 
 ---
 
@@ -40,7 +53,7 @@ OmniFlow Kiosk App is a Next.js-based application designed for large touchscreen
 
 ### 📱 QR Code Integration
 - **Unique Session Generation**: Each kiosk generates a unique session ID displayed as QR code
-- **Mobile App Scanning**: Customers scan QR code with mobile app to sync cart
+- **Mobile App Scanning**: Customers scan QR code with [mobile app](https://omniflow-mobile.netlify.app/) to sync cart
 - **Manual Entry**: Alternative session ID entry for accessibility
 - **Visual Feedback**: Clear instructions and session ID display
 
@@ -142,8 +155,8 @@ OmniFlow Kiosk App is a Next.js-based application designed for large touchscreen
 └─────────────────────────────────────────────────────────────┘
                           │
 ┌─────────────────────────┴────────────────────────────────────┐
-│              Mobile App (React)                             │
-│         Scans QR Code → Syncs Session                       │
+│         [Mobile App](https://omniflow-mobile.netlify.app/)      │
+│         Scans QR Code → Syncs Session                        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -160,9 +173,10 @@ OmniFlow Kiosk App is a Next.js-based application designed for large touchscreen
 
 ### Installation
 
-1. **Navigate to kiosk app directory**
+1. **Clone the repository**
    ```bash
-   cd kiosk-app
+   git clone https://github.com/denispaul2406/omniflow-kiosk.git
+   cd omniflow-kiosk
    ```
 
 2. **Install dependencies**
@@ -176,13 +190,13 @@ OmniFlow Kiosk App is a Next.js-based application designed for large touchscreen
 
 3. **Set up environment variables**
    
-   Create a `.env.local` file in the `kiosk-app` directory:
+   Create a `.env.local` file in the root directory:
    ```env
    NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
    ```
    
-   > **Note**: Use the same Supabase credentials as the mobile app for shared database access.
+   > **Note**: Use the same Supabase credentials as the [mobile app](https://github.com/denispaul2406/omniflow-mobile) for shared database access.
 
 4. **Start the development server**
    ```bash
@@ -230,6 +244,7 @@ kiosk-app/
 │   ├── data/                 # Product images (men/women)
 │   └── placeholder.*         # Placeholder images
 ├── .env.local                # Environment variables (create this)
+├── netlify.toml              # Netlify deployment configuration
 ├── next.config.mjs           # Next.js configuration
 ├── package.json              # Project dependencies
 ├── tailwind.config.ts        # Tailwind CSS configuration
@@ -247,10 +262,10 @@ kiosk-app/
    - Generates unique kiosk session ID (format: `KIOSK-{timestamp}-{random}`)
    - Displays QR code with session ID
    - Shows session ID for manual entry
-   - Waits for mobile app scan or manual entry
+   - Waits for [mobile app](https://omniflow-mobile.netlify.app/) scan or manual entry
 
 2. **Mobile App Scan**
-   - User opens mobile app → "Try Before You Buy" screen
+   - User opens [mobile app](https://omniflow-mobile.netlify.app/) → "Try Before You Buy" screen
    - Scans kiosk QR code
    - Mobile app session ID is passed to kiosk
    - Cart syncs automatically via Supabase
@@ -316,7 +331,7 @@ Mobile app cart updates in real-time
 - Unique session ID generation on client-side (prevents hydration issues)
 - QR code displayed using `react-qr-code` library
 - Session ID shown for manual entry
-- Clear instructions for mobile app scanning
+- Clear instructions for [mobile app](https://omniflow-mobile.netlify.app/) scanning
 - Responsive design for large touchscreens
 
 **Technical Details:**
@@ -564,6 +579,10 @@ npm run lint
 
 ## 🚀 Deployment
 
+### 🌐 Live Application
+
+**Deployed at:** [omniflow-kiosk.vercel.app](https://omniflow-kiosk.vercel.app/)
+
 ### Build for Production
 
 ```bash
@@ -580,8 +599,11 @@ Ensure these are set in your production environment:
 
 ### Hosting Options
 
-- **Vercel** - Recommended for Next.js apps
+- **Vercel** - ✅ Currently deployed (recommended for Next.js apps)
 - **Netlify** - Easy deployment with CI/CD
+  - Uses `netlify.toml` for configuration
+  - Automatically uses npm (not pnpm) for package management
+  - Requires `@netlify/plugin-nextjs` plugin (configured in netlify.toml)
 - **AWS Amplify** - Enterprise hosting
 - **Self-hosted** - Docker containerization
 
@@ -670,6 +692,14 @@ Ensure these are set in your production environment:
 
 ---
 
+## 🔗 Related Projects
+
+- **[📱 Mobile App](https://omniflow-mobile.netlify.app/)** - React-based conversational shopping interface
+- **[📦 Mobile Repository](https://github.com/denispaul2406/omniflow-mobile)** - Mobile app source code
+- **[📦 Root Repository](https://github.com/denispaul2406/omniflow-abfrl)** - Complete monorepo with all components
+
+---
+
 ## 📄 License
 
 © 2024 Aditya Birla Fashion & Retail Limited. All rights reserved.
@@ -692,4 +722,10 @@ For technical support or questions about this project, please reach out to the d
 
 ---
 
+<div align="center">
+
 **Built with ❤️ for ABFRL**
+
+[⬆ Back to Top](#-omniflow---kiosk-app)
+
+</div>
