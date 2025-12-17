@@ -1,4 +1,4 @@
-# ABFRL Fashion Chat Suite - Mobile App
+# OmniFlow - Mobile App
 
 **Omni-Conversational Sales Orchestrator | Mobile Application**
 
@@ -24,7 +24,7 @@ A next-generation AI-powered shopping experience that seamlessly integrates mult
 
 ## 🎯 Overview
 
-The ABFRL Fashion Chat Suite Mobile App is a React-based progressive web application that delivers a unified, AI-driven shopping experience across multiple channels. It enables customers to browse products, receive personalized recommendations, manage their cart, and seamlessly transition between mobile, web, WhatsApp, and in-store kiosk experiences.
+OmniFlow Mobile App is a React-based progressive web application that delivers a unified, AI-driven shopping experience across multiple channels. It enables customers to browse products, receive personalized recommendations, manage their cart, and seamlessly transition between mobile, web, WhatsApp, and in-store kiosk experiences.
 
 ### Business Value
 

@@ -56,8 +56,8 @@ export function Header() {
               }}
             />
             <div>
-              <h1 className="text-xl font-bold tracking-tight text-foreground font-heading">ABFRL</h1>
-              <p className="text-xs text-muted-foreground font-medium">Fashion Chat Suite</p>
+              <h1 className="text-xl font-bold tracking-tight text-foreground font-heading">OmniFlow</h1>
+              <p className="text-xs text-muted-foreground font-medium">Omnichannel Shopping</p>
             </div>
           </div>
         </div>

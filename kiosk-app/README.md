@@ -1,4 +1,4 @@
-# ABFRL In-Store Kiosk App
+# OmniFlow - Kiosk App
 
 **Next.js-based Kiosk Interface for Seamless In-Store Shopping Experience**
 
@@ -24,7 +24,7 @@ A modern, touchscreen-optimized kiosk application that integrates with the mobil
 
 ## 🎯 Overview
 
-The ABFRL In-Store Kiosk App is a Next.js-based application designed for large touchscreen displays in physical retail stores. It enables customers to seamlessly continue their shopping journey from mobile to in-store, find products, handle out-of-stock scenarios, and complete purchases with integrated payment processing.
+OmniFlow Kiosk App is a Next.js-based application designed for large touchscreen displays in physical retail stores. It enables customers to seamlessly continue their shopping journey from mobile to in-store, find products, handle out-of-stock scenarios, and complete purchases with integrated payment processing.
 
 ### Business Value
 

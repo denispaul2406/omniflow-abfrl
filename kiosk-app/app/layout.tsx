@@ -12,8 +12,8 @@ const _montserrat = Montserrat({
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "ABFRL In-Store Kiosk",
-  description: "Continue your shopping journey seamlessly with ABFRL In-Store Kiosk",
+  title: "OmniFlow Kiosk",
+  description: "Continue your shopping journey seamlessly with OmniFlow Kiosk",
   generator: "v0.app",
   icons: {
     icon: "/favicon.ico",

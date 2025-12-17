@@ -1,4 +1,4 @@
-# ABFRL Fashion Chat Suite
+# OmniFlow
 
 **Omni-Conversational Sales Orchestrator | Complete Solution**
 
@@ -21,7 +21,7 @@ A comprehensive omnichannel shopping platform that seamlessly integrates mobile 
 
 ## 🎯 Overview
 
-The ABFRL Fashion Chat Suite is a complete omnichannel shopping solution consisting of three integrated applications:
+OmniFlow is a complete omnichannel shopping solution consisting of three integrated applications:
 
 1. **Mobile App** - React-based progressive web application for conversational shopping
 2. **Kiosk App** - Next.js-based in-store kiosk interface for seamless in-store experience

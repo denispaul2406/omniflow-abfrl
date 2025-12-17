@@ -52,7 +52,7 @@ export function KioskHome() {
 
       {/* Welcome Text */}
       <h1 className="text-3xl md:text-4xl font-heading font-bold text-foreground mb-2 text-center flex-shrink-0">
-        Welcome to ABFRL In-Store Kiosk 👋
+        Welcome to OmniFlow Kiosk 👋
       </h1>
       <p className="text-base md:text-lg text-muted-foreground mb-4 text-center flex-shrink-0">Continue your shopping journey seamlessly</p>
 
