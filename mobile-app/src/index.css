@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* ABFRL Brand Colors - Based on Official Guidelines */
+    --background: 0 0% 100%; /* Clean White #FFFFFF */
+    --foreground: 0 0% 20%; /* Mine Shaft #333333 */
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 20%;
+
+    /* Primary: Persian Red #CF2E2E / #D51D25 */
+    --primary: 0 78% 48%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Secondary: Light Grey #F3F4F7 */
+    --secondary: 240 20% 96%;
+    --secondary-foreground: 0 0% 20%;
+
+    --muted: 240 20% 96%;
+    --muted-foreground: 0 0% 45%;
+
+    /* Accent: Princeton Orange #F68529 */
+    --accent: 24 92% 56%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 90%; /* #E5E5E5 */
+    --input: 0 0% 90%;
+    --ring: 0 78% 48%;
+
+    --radius: 0.5rem; /* 8px rounded buttons */
+
+    /* Custom tokens */
+    --chat-user: 0 78% 48%; /* Persian Red */
+    --chat-agent: 240 20% 96%;
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+    
+    /* ABFRL Loyalty Colors */
+    --loyalty-gold: 45 60% 45%; /* Nugget Gold #C58A24 */
+    --loyalty-silver: 220 9% 66%;
+    --loyalty-bronze: 30 41% 50%;
+
+    /* ABFRL Brand Colors */
+    --abfrl-red: 0 78% 48%; /* Persian Red #CF2E2E */
+    --abfrl-gold: 45 60% 45%; /* Nugget Gold #C58A24 */
+    --abfrl-orange: 24 92% 56%; /* Princeton Orange #F68529 */
+
+    /* Sun Gradient (Red to Orange) */
+    --gradient-sun: linear-gradient(90deg, hsl(0 78% 48%) 0%, hsl(24 92% 56%) 100%);
+
+    /* Soft shadows as per ABFRL guidelines */
+    --shadow-soft: 0 2px 8px rgba(0, 0, 0, 0.08);
+    --shadow-medium: 0 4px 20px rgba(0, 0, 0, 0.12);
+    --shadow-elevated: 0 8px 32px rgba(0, 0, 0, 0.16);
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 0 0% 20%;
+    --sidebar-primary: 0 0% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 20% 96%;
+    --sidebar-accent-foreground: 0 0% 10%;
+    --sidebar-border: 0 0% 90%;
+    --sidebar-ring: 0 78% 48%;
+  }
+
+  .dark {
+    --background: 0 0% 10%;
+    --foreground: 0 0% 98%;
+
+    --card: 0 0% 13%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 0 0% 13%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 207 90% 60%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 0 0% 18%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 0 0% 18%;
+    --muted-foreground: 0 0% 60%;
+
+    --accent: 24 100% 55%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 62% 30%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 207 90% 60%;
+
+    --chat-user: 207 90% 60%;
+    --chat-agent: 0 0% 18%;
+
+    --sidebar-background: 0 0% 10%;
+    --sidebar-foreground: 0 0% 98%;
+    --sidebar-primary: 207 90% 60%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 0 0% 15%;
+    --sidebar-accent-foreground: 0 0% 98%;
+    --sidebar-border: 0 0% 20%;
+    --sidebar-ring: 207 90% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    font-family: 'Inter', 'Verdana', 'Roboto', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-size: 14px; /* 14-16px body text per ABFRL guidelines */
+    line-height: 1.5;
+    color: hsl(var(--foreground));
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', 'Inter', sans-serif; /* Trade Gothic alternative */
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: hsl(var(--foreground));
+  }
+
+  h1 {
+    font-size: 32px; /* 24-32px headings per ABFRL */
+    font-weight: 700;
+  }
+
+  h2 {
+    font-size: 24px;
+    font-weight: 600;
+  }
+
+  h3 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+}
+
+@layer utilities {
+  .animate-fade-in {
+    animation: fadeIn 0.3s ease-out forwards;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.3s ease-out forwards;
+  }
+
+  .animate-scale-in {
+    animation: scaleIn 0.2s ease-out forwards;
+  }
+
+  .animate-bounce-in {
+    animation: bounceIn 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+  }
+
+  .chat-bubble-user {
+    @apply bg-primary text-primary-foreground rounded-xl rounded-br-md shadow-soft;
+  }
+
+  .chat-bubble-agent {
+    @apply bg-secondary text-secondary-foreground rounded-xl rounded-bl-md shadow-soft;
+  }
+
+  .gradient-sun {
+    background: linear-gradient(90deg, hsl(0 78% 48%) 0%, hsl(24 92% 56%) 100%);
+  }
+
+  .gradient-sun-spinner {
+    background: conic-gradient(from 0deg, hsl(0 78% 48%), hsl(24 92% 56%), hsl(0 78% 48%));
+    animation: spin 2s linear infinite;
+  }
+
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+
+  .shadow-medium {
+    box-shadow: var(--shadow-medium);
+  }
+
+  .shadow-elevated {
+    box-shadow: var(--shadow-elevated);
+  }
+
+  .glass-effect {
+    @apply bg-background/95 backdrop-blur-lg;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes bounceIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulse-gradient {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted-foreground) / 0.3);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.5);
+}

@@ -1,0 +1,926 @@
+{
+  "brands": {
+    "allen_solly": {
+      "brand_name": "Allen Solly",
+      "category": "smart_casual",
+      "products": [
+        {
+          "product_id": "AS-CS-BLUE-001",
+          "name": "Allen Solly Men Blue Slim Fit Solid Full Sleeves Casual Shirt",
+          "style_code": "ASSFMMOPM42983",
+          "price": 2799,
+          "discount_price": 1609,
+          "discount_percent": 42,
+          "description": "Embrace effortless style with the Allen Solly solid blue shirt, designed for the modern man. Crafted from a blend of bamboo, polyester, and spandex, it offers a slim fit that enhances your silhouette while ensuring comfort. Perfect for casual occasions, the full sleeves add a touch of sophistication.",
+          "material": "48% Bamboo, 48% Polyester and 4% Spandex",
+          "fit": "Slim Fit",
+          "collar": "Regular Collar",
+          "color": "Blue",
+          "cuffs": "Regular Cuff",
+          "occasion": "Casual",
+          "pattern": "Solid",
+          "sleeves": "Full Sleeves",
+          "collection": "AS Modern",
+          "product_type": "Shirt",
+          "image_source": "men/Men Blue Slim Fit Solid Full Sleeves Casual Shirt.jpg",
+          "stock_online": 45,
+          "stock_store": {
+            "MG_ROAD_01": 12,
+            "KORAMANGALA_02": 8,
+            "INDIRANAGAR_03": 10
+          },
+          "aisle": "11",
+          "sizes": [
+            {
+              "size": "36",
+              "measurements": {
+                "across_shoulder_cm": 36,
+                "bottom_opening_cm": 90,
+                "chest_cm": 90,
+                "collar_cm": 37,
+                "sleeve_length_cm": 64
+              },
+              "available": true
+            },
+            {
+              "size": "38",
+              "measurements": {
+                "across_shoulder_cm": 41,
+                "bottom_opening_cm": 98,
+                "chest_cm": 98,
+                "collar_cm": 39,
+                "sleeve_length_cm": 65
+              },
+              "available": true
+            },
+            {
+              "size": "39",
+              "measurements": {
+                "across_shoulder_cm": 43,
+                "bottom_opening_cm": 102,
+                "chest_cm": 102,
+                "collar_cm": 40,
+                "sleeve_length_cm": 66
+              },
+              "available": true
+            },
+            {
+              "size": "40",
+              "measurements": {
+                "across_shoulder_cm": 44,
+                "bottom_opening_cm": 106,
+                "chest_cm": 106,
+                "collar_cm": 41,
+                "sleeve_length_cm": 66
+              },
+              "available": true
+            },
+            {
+              "size": "42",
+              "measurements": {
+                "across_shoulder_cm": 47,
+                "bottom_opening_cm": 114,
+                "chest_cm": 114,
+                "collar_cm": 42,
+                "sleeve_length_cm": 67
+              },
+              "available": true
+            },
+            {
+              "size": "44",
+              "measurements": {
+                "across_shoulder_cm": 49,
+                "bottom_opening_cm": 122,
+                "chest_cm": 122,
+                "collar_cm": 43,
+                "sleeve_length_cm": 68
+              },
+              "available": true
+            },
+            {
+              "size": "46",
+              "measurements": {
+                "across_shoulder_cm": 51,
+                "bottom_opening_cm": 130,
+                "chest_cm": 130,
+                "collar_cm": 44,
+                "sleeve_length_cm": 69
+              },
+              "available": false
+            },
+            {
+              "size": "48",
+              "measurements": {
+                "across_shoulder_cm": 53,
+                "bottom_opening_cm": 138,
+                "chest_cm": 138,
+                "collar_cm": 45,
+                "sleeve_length_cm": 70
+              },
+              "available": false
+            }
+          ],
+          "reviews": 1,
+          "rating": 4.5,
+          "coupons": [
+            {
+              "code": "ASBKT8000",
+              "discount": 1200,
+              "min_purchase": 8000,
+              "description": "Shop For Rs. 8000, Get Additional Rs.1200 OFF!"
+            }
+          ]
+        },
+        {
+          "product_id": "AS-CS-BEIGE-002",
+          "name": "Allen Solly Men Beige Slim Fit Checked Full Sleeves Casual Shirt",
+          "style_code": "ASSFQSPPU60245",
+          "price": 2999,
+          "discount_price": 1724,
+          "discount_percent": 42,
+          "description": "This Allen Solly shirt in a stylish beige check pattern is designed for the modern man seeking casual elegance. Made from breathable cotton, it features a slim fit with full sleeves, providing both comfort and a tailored silhouette. Perfect for effortless weekend outings.",
+          "material": "100% Cotton",
+          "fit": "Slim Fit",
+          "collar": "Regular Collar",
+          "color": "Beige",
+          "cuffs": "Regular Cuff",
+          "occasion": "Casual",
+          "pattern": "Checked",
+          "sleeves": "Full Sleeves",
+          "collection": "AS Qwork",
+          "product_type": "Shirt",
+          "image_source": "men/Men Beige Slim Fit Checked Full Sleeves Casual Shirt.jpg",
+          "stock_online": 38,
+          "stock_store": {
+            "MG_ROAD_01": 10,
+            "KORAMANGALA_02": 6,
+            "INDIRANAGAR_03": 8
+          },
+          "aisle": "11",
+          "sizes": [
+            {
+              "size": "36",
+              "measurements": {
+                "across_shoulder_cm": 36,
+                "bottom_opening_cm": 90,
+                "chest_cm": 90,
+                "collar_cm": 37,
+                "sleeve_length_cm": 64
+              },
+              "available": true
+            },
+            {
+              "size": "38",
+              "measurements": {
+                "across_shoulder_cm": 41,
+                "bottom_opening_cm": 98,
+                "chest_cm": 98,
+                "collar_cm": 39,
+                "sleeve_length_cm": 65
+              },
+              "available": true
+            },
+            {
+              "size": "39",
+              "measurements": {
+                "across_shoulder_cm": 43,
+                "bottom_opening_cm": 102,
+                "chest_cm": 102,
+                "collar_cm": 40,
+                "sleeve_length_cm": 66
+              },
+              "available": true
+            },
+            {
+              "size": "40",
+              "measurements": {
+                "across_shoulder_cm": 44,
+                "bottom_opening_cm": 106,
+                "chest_cm": 106,
+                "collar_cm": 41,
+                "sleeve_length_cm": 66
+              },
+              "available": true
+            },
+            {
+              "size": "42",
+              "measurements": {
+                "across_shoulder_cm": 47,
+                "bottom_opening_cm": 114,
+                "chest_cm": 114,
+                "collar_cm": 42,
+                "sleeve_length_cm": 67
+              },
+              "available": true
+            },
+            {
+              "size": "44",
+              "measurements": {
+                "across_shoulder_cm": 49,
+                "bottom_opening_cm": 122,
+                "chest_cm": 122,
+                "collar_cm": 43,
+                "sleeve_length_cm": 68
+              },
+              "available": true
+            },
+            {
+              "size": "46",
+              "measurements": {
+                "across_shoulder_cm": 51,
+                "bottom_opening_cm": 130,
+                "chest_cm": 130,
+                "collar_cm": 44,
+                "sleeve_length_cm": 69
+              },
+              "available": false
+            },
+            {
+              "size": "48",
+              "measurements": {
+                "across_shoulder_cm": 53,
+                "bottom_opening_cm": 138,
+                "chest_cm": 138,
+                "collar_cm": 45,
+                "sleeve_length_cm": 70
+              },
+              "available": false
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "coupons": [
+            {
+              "code": "ASBKT8000",
+              "discount": 1200,
+              "min_purchase": 8000,
+              "description": "Shop For Rs. 8000, Get Additional Rs.1200 OFF!"
+            }
+          ]
+        },
+        {
+          "product_id": "AS-CS-WHITE-003",
+          "name": "Allen Solly Men White Slim Fit Solid Full Sleeves Casual Shirt",
+          "style_code": "ASSFMAMOP461233",
+          "price": 2799,
+          "discount_price": 2491,
+          "discount_percent": 11,
+          "description": "Elevate your casual wardrobe with the Allen Solly slim-fit shirt from the Airportables collection. Crafted from a premium blend of bamboo, polyester, and spandex, it offers breathability and flexibility for all-day comfort. The solid white color adds versatility, making it perfect for any occasion.",
+          "material": "48% Bamboo, 48% Polyester and 4% Spandex",
+          "fit": "Slim Fit",
+          "collar": "Regular Collar",
+          "color": "White",
+          "cuffs": "Regular Cuff",
+          "occasion": "Casual",
+          "pattern": "Solid",
+          "sleeves": "Full Sleeves",
+          "collection": "AS Modern Airportables",
+          "product_type": "Shirt",
+          "image_source": "men/Men White Slim Fit Textured Full Sleeves Casual Shirt.jpg",
+          "stock_online": 52,
+          "stock_store": {
+            "MG_ROAD_01": 15,
+            "KORAMANGALA_02": 12,
+            "INDIRANAGAR_03": 10
+          },
+          "aisle": "11",
+          "sizes": [
+            {
+              "size": "36",
+              "measurements": {
+                "across_shoulder_cm": 36,
+                "bottom_opening_cm": 90,
+                "chest_cm": 90,
+                "collar_cm": 37,
+                "sleeve_length_cm": 64
+              },
+              "available": true
+            },
+            {
+              "size": "38",
+              "measurements": {
+                "across_shoulder_cm": 41,
+                "bottom_opening_cm": 98,
+                "chest_cm": 98,
+                "collar_cm": 39,
+                "sleeve_length_cm": 65
+              },
+              "available": true
+            },
+            {
+              "size": "39",
+              "measurements": {
+                "across_shoulder_cm": 43,
+                "bottom_opening_cm": 102,
+                "chest_cm": 102,
+                "collar_cm": 40,
+                "sleeve_length_cm": 66
+              },
+              "available": true
+            },
+            {
+              "size": "40",
+              "measurements": {
+                "across_shoulder_cm": 44,
+                "bottom_opening_cm": 106,
+                "chest_cm": 106,
+                "collar_cm": 41,
+                "sleeve_length_cm": 66
+              },
+              "available": true
+            },
+            {
+              "size": "42",
+              "measurements": {
+                "across_shoulder_cm": 47,
+                "bottom_opening_cm": 114,
+                "chest_cm": 114,
+                "collar_cm": 42,
+                "sleeve_length_cm": 67
+              },
+              "available": true
+            },
+            {
+              "size": "44",
+              "measurements": {
+                "across_shoulder_cm": 49,
+                "bottom_opening_cm": 122,
+                "chest_cm": 122,
+                "collar_cm": 43,
+                "sleeve_length_cm": 68
+              },
+              "available": true
+            },
+            {
+              "size": "46",
+              "measurements": {
+                "across_shoulder_cm": 51,
+                "bottom_opening_cm": 130,
+                "chest_cm": 130,
+                "collar_cm": 44,
+                "sleeve_length_cm": 69
+              },
+              "available": true
+            },
+            {
+              "size": "48",
+              "measurements": {
+                "across_shoulder_cm": 53,
+                "bottom_opening_cm": 138,
+                "chest_cm": 138,
+                "collar_cm": 45,
+                "sleeve_length_cm": 70
+              },
+              "available": false
+            }
+          ],
+          "reviews": 1,
+          "rating": 4.0,
+          "coupons": [
+            {
+              "code": "ASBKT8000",
+              "discount": 1200,
+              "min_purchase": 8000,
+              "description": "Shop For Rs. 8000, Get Additional Rs.1200 OFF!"
+            }
+          ]
+        }
+      ]
+    },
+    "louis_philippe": {
+      "brand_name": "Louis Philippe",
+      "category": "premium_formal",
+      "products": [
+        {
+          "product_id": "LP-TR-BLACK-001",
+          "name": "Louis Philippe Men Black Super Slim Fit Solid Flat Front Casual Trousers",
+          "style_code": "LYTFCSSPZ00515",
+          "price": 3475,
+          "discount_price": 2050,
+          "discount_percent": 41,
+          "description": "Discover understated elegance with the Louis Philippe Sport black super slim trousers. Crafted from a soft cotton and spandex blend, these trousers offer a sleek silhouette and exceptional comfort for casual outings. The solid design enriches versatility, while the flat front ensures a polished look.",
+          "material": "95% Cotton and 5% Spandex",
+          "fit": "Super Slim Fit",
+          "color": "Black",
+          "occasion": "Casual",
+          "pattern": "Solid",
+          "trouser_front": "Flat Front",
+          "collection": "LY True Casuals",
+          "product_type": "Trousers",
+          "subbrand": "Louis Philippe Sport",
+          "model_info": "This model has Height 6'1\", Chest 40\", Waist 32\" and is wearing Size 32",
+          "image_source": "men/Men Black Super Slim Fit Solid Flat Front Casual Trousers.jpg",
+          "stock_online": 42,
+          "stock_store": {
+            "MG_ROAD_01": 14,
+            "KORAMANGALA_02": 9,
+            "INDIRANAGAR_03": 11
+          },
+          "aisle": "14",
+          "sizes": [
+            {
+              "size": "28",
+              "measurements": {
+                "back_rise_cm": 34,
+                "bottom_width_cm": 33,
+                "front_rise_cm": 23,
+                "out_seam_cm": 108,
+                "thigh_cm": 54,
+                "waist_cm": 75
+              },
+              "available": true
+            },
+            {
+              "size": "30",
+              "measurements": {
+                "back_rise_cm": 35,
+                "bottom_width_cm": 33,
+                "front_rise_cm": 23,
+                "out_seam_cm": 108,
+                "thigh_cm": 56,
+                "waist_cm": 80
+              },
+              "available": true
+            },
+            {
+              "size": "32",
+              "measurements": {
+                "back_rise_cm": 35,
+                "bottom_width_cm": 34,
+                "front_rise_cm": 24,
+                "out_seam_cm": 108,
+                "thigh_cm": 59,
+                "waist_cm": 85
+              },
+              "available": true
+            },
+            {
+              "size": "34",
+              "measurements": {
+                "back_rise_cm": 36,
+                "bottom_width_cm": 34,
+                "front_rise_cm": 25,
+                "out_seam_cm": 108,
+                "thigh_cm": 61,
+                "waist_cm": 90
+              },
+              "available": true
+            },
+            {
+              "size": "36",
+              "measurements": {
+                "back_rise_cm": 36,
+                "bottom_width_cm": 35,
+                "front_rise_cm": 25,
+                "out_seam_cm": 108,
+                "thigh_cm": 63,
+                "waist_cm": 95
+              },
+              "available": true
+            },
+            {
+              "size": "38",
+              "measurements": {
+                "back_rise_cm": 37,
+                "bottom_width_cm": 36,
+                "front_rise_cm": 26,
+                "out_seam_cm": 108,
+                "thigh_cm": 66,
+                "waist_cm": 100
+              },
+              "available": true
+            },
+            {
+              "size": "40",
+              "measurements": {
+                "back_rise_cm": 38,
+                "bottom_width_cm": 36,
+                "front_rise_cm": 26,
+                "out_seam_cm": 108,
+                "thigh_cm": 68,
+                "waist_cm": 105
+              },
+              "available": true
+            },
+            {
+              "size": "42",
+              "measurements": {
+                "back_rise_cm": 38,
+                "bottom_width_cm": 37,
+                "front_rise_cm": 27,
+                "out_seam_cm": 108,
+                "thigh_cm": 71,
+                "waist_cm": 110
+              },
+              "available": true
+            },
+            {
+              "size": "44",
+              "measurements": {
+                "back_rise_cm": 39,
+                "bottom_width_cm": 37,
+                "front_rise_cm": 27,
+                "out_seam_cm": 108,
+                "thigh_cm": 73,
+                "waist_cm": 115
+              },
+              "available": false
+            },
+            {
+              "size": "46",
+              "measurements": {
+                "back_rise_cm": 39,
+                "bottom_width_cm": 38,
+                "front_rise_cm": 28,
+                "out_seam_cm": 108,
+                "thigh_cm": 75,
+                "waist_cm": 120
+              },
+              "available": false
+            }
+          ],
+          "reviews": 2,
+          "rating": 4.5,
+          "coupons": [
+            {
+              "code": "LPGETSAVINGS",
+              "description": "Buy 2 Get 5%, 3 - 7%, 4 - 10% Extra Off"
+            }
+          ]
+        },
+        {
+          "product_id": "LP-TR-BROWN-002",
+          "name": "Louis Philippe Men Brown Slim Fit Solid Flat Front Formal Trousers",
+          "style_code": "LPTFMSLB109377",
+          "price": 2799,
+          "discount_price": 1511,
+          "discount_percent": 46,
+          "description": "Elevate your formal wardrobe with these Louis Philippe slim-fit trousers. Crafted from a premium blend of polyester, viscose, and spandex, they ensure a comfortable and stylish wear. The solid brown color offers versatile pairing options, while the flat-front design enhances a polished look for any formal occasion.",
+          "material": "64% Polyester, 34% Viscose and 2% Spandex",
+          "fit": "Slim Fit",
+          "color": "Brown",
+          "occasion": "Formal",
+          "pattern": "Solid",
+          "trouser_front": "Flat Front",
+          "collection": "LP Everyday Formals",
+          "product_type": "Trousers",
+          "subbrand": "Louis Philippe",
+          "image_source": "men/Men Brown Slim Fit Solid Flat Front Formal Trousers.jpg",
+          "stock_online": 35,
+          "stock_store": {
+            "MG_ROAD_01": 11,
+            "KORAMANGALA_02": 7,
+            "INDIRANAGAR_03": 9
+          },
+          "aisle": "14",
+          "sizes": [
+            {
+              "size": "30",
+              "measurements": {
+                "back_rise_cm": 35,
+                "bottom_width_cm": 33,
+                "front_rise_cm": 23,
+                "out_seam_cm": 108,
+                "thigh_cm": 56,
+                "waist_cm": 80
+              },
+              "available": true
+            },
+            {
+              "size": "32",
+              "measurements": {
+                "back_rise_cm": 35,
+                "bottom_width_cm": 34,
+                "front_rise_cm": 24,
+                "out_seam_cm": 108,
+                "thigh_cm": 59,
+                "waist_cm": 85
+              },
+              "available": true
+            },
+            {
+              "size": "34",
+              "measurements": {
+                "back_rise_cm": 36,
+                "bottom_width_cm": 34,
+                "front_rise_cm": 25,
+                "out_seam_cm": 108,
+                "thigh_cm": 61,
+                "waist_cm": 90
+              },
+              "available": true
+            },
+            {
+              "size": "36",
+              "measurements": {
+                "back_rise_cm": 36,
+                "bottom_width_cm": 35,
+                "front_rise_cm": 25,
+                "out_seam_cm": 108,
+                "thigh_cm": 63,
+                "waist_cm": 95
+              },
+              "available": true
+            },
+            {
+              "size": "38",
+              "measurements": {
+                "back_rise_cm": 37,
+                "bottom_width_cm": 36,
+                "front_rise_cm": 26,
+                "out_seam_cm": 108,
+                "thigh_cm": 66,
+                "waist_cm": 100
+              },
+              "available": true
+            },
+            {
+              "size": "40",
+              "measurements": {
+                "back_rise_cm": 38,
+                "bottom_width_cm": 36,
+                "front_rise_cm": 26,
+                "out_seam_cm": 108,
+                "thigh_cm": 68,
+                "waist_cm": 105
+              },
+              "available": true
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "coupons": [
+            {
+              "code": "LPGETSAVINGS",
+              "description": "Buy 2 Get 5%, 3 - 7%, 4 - 10% Extra Off"
+            }
+          ]
+        }
+      ]
+    },
+    "peter_england": {
+      "brand_name": "Peter England",
+      "category": "mass_premium",
+      "products": [
+        {
+          "product_id": "PE-SW-NAVY-001",
+          "name": "Peter England Men Navy Solid V Neck Sweater",
+          "style_code": "PCSWSRGPS42663",
+          "price": 1899,
+          "discount_price": 1709,
+          "discount_percent": 10,
+          "description": "Introducing the Peter England Casuals Navy Sweater, a perfect blend of style and comfort for the modern man. Crafted from soft acrylic, this regular-fit sweater features a trendy V-neck and full sleeves, making it ideal for casual outings. The solid navy color adds versatility to your wardrobe.",
+          "material": "100% Acrylic",
+          "fit": "Regular Fit",
+          "color": "Navy",
+          "neck": "V Neck",
+          "occasion": "Casual",
+          "pattern": "Solid",
+          "sleeves": "Full Sleeves",
+          "collection": "ELEMENTS SPORT ICONIC",
+          "product_type": "Sweater",
+          "subbrand": "Peter England Casuals",
+          "image_source": "men/Men Navy Solid V Neck Sweater.jpg",
+          "stock_online": 48,
+          "stock_store": {
+            "MG_ROAD_01": 16,
+            "KORAMANGALA_02": 11,
+            "INDIRANAGAR_03": 13
+          },
+          "aisle": "9",
+          "sizes": [
+            {
+              "size": "S",
+              "measurements": {
+                "across_shoulder_cm": 41,
+                "chest_cm": 97,
+                "sleeve_length_cm": 64
+              },
+              "available": true
+            },
+            {
+              "size": "M",
+              "measurements": {
+                "across_shoulder_cm": 43,
+                "chest_cm": 102,
+                "sleeve_length_cm": 65
+              },
+              "available": true
+            },
+            {
+              "size": "L",
+              "measurements": {
+                "across_shoulder_cm": 46,
+                "chest_cm": 107,
+                "sleeve_length_cm": 66
+              },
+              "available": true
+            },
+            {
+              "size": "XL",
+              "measurements": {
+                "across_shoulder_cm": 48,
+                "chest_cm": 112,
+                "sleeve_length_cm": 66
+              },
+              "available": true
+            },
+            {
+              "size": "XXL",
+              "measurements": {
+                "across_shoulder_cm": 51,
+                "chest_cm": 117,
+                "sleeve_length_cm": 67
+              },
+              "available": true
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "coupons": [
+            {
+              "code": "PENEW5",
+              "discount": 86,
+              "description": "Additional 5% Off On First Purchase"
+            }
+          ]
+        }
+      ]
+    },
+    "van_heusen": {
+      "brand_name": "Van Heusen",
+      "category": "premium_formal",
+      "products": [
+        {
+          "product_id": "VH-SHOES-BLACK-001",
+          "name": "Van Heusen Men Black Formal Shoes",
+          "style_code": "VHSCGRGAWL000141",
+          "price": 4999,
+          "discount_price": 2499,
+          "discount_percent": 50,
+          "description": "Step up your formal style with these Van Heusen leather heels, perfect for any sophisticated occasion. Crafted in a classic black color and designed to elevate your ensemble, these shoes combine elegance and comfort. The durable TPR sole ensures lasting support, making them ideal for long events.",
+          "color": "Black",
+          "occasion": "Formal",
+          "pattern": "Solid",
+          "shoe_type": "Heels",
+          "sole_material": "TPR",
+          "upper_material": "Leather",
+          "collection": "VH Buy and Sell Accessories",
+          "product_type": "Formal Shoes",
+          "subbrand": "Van Heusen",
+          "image_source": "men/Men Black Formal Shoes.jpg",
+          "stock_online": 36,
+          "stock_store": {
+            "MG_ROAD_01": 12,
+            "KORAMANGALA_02": 8,
+            "INDIRANAGAR_03": 10
+          },
+          "aisle": "10",
+          "sizes": [
+            {
+              "size": "6",
+              "measurements": {
+                "length_cm": 26.3
+              },
+              "available": true
+            },
+            {
+              "size": "7",
+              "measurements": {
+                "length_cm": 27.1
+              },
+              "available": true
+            },
+            {
+              "size": "8",
+              "measurements": {
+                "length_cm": 27.9
+              },
+              "available": true
+            },
+            {
+              "size": "9",
+              "measurements": {
+                "length_cm": 28.8
+              },
+              "available": true
+            },
+            {
+              "size": "10",
+              "measurements": {
+                "length_cm": 29.6
+              },
+              "available": true
+            },
+            {
+              "size": "11",
+              "measurements": {
+                "length_cm": 30.5
+              },
+              "available": true
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "coupons": [
+            {
+              "code": "VHSAVE1200",
+              "discount": 1200,
+              "min_purchase": 8000,
+              "description": "Get Rs 1200 Off On Min Purchase Of Rs 8000"
+            }
+          ]
+        },
+        {
+          "product_id": "VH-BELT-BLACK-001",
+          "name": "Van Heusen Men Black Textured Belt",
+          "style_code": "VHBLGRGFF200004",
+          "price": 1499,
+          "discount_price": 749,
+          "discount_percent": 50,
+          "description": "Add the right accompaniment to your ensemble with this Black Textured belt from Van Heusen.",
+          "material": "Genuine Leather",
+          "color": "Black",
+          "pattern": "Textured",
+          "collection": "VH Buy and Sell Accessories",
+          "product_type": "Belt",
+          "accessories": "Belts",
+          "subbrand": "Van Heusen",
+          "image_source": "men/Men Black Textured Belt.jpg",
+          "stock_online": 55,
+          "stock_store": {
+            "MG_ROAD_01": 18,
+            "KORAMANGALA_02": 14,
+            "INDIRANAGAR_03": 15
+          },
+          "aisle": "15",
+          "sizes": [
+            {
+              "size": "M",
+              "measurements": {
+                "length_cm": 87,
+                "width_cm": 4
+              },
+              "available": true
+            },
+            {
+              "size": "L",
+              "measurements": {
+                "length_cm": 97,
+                "width_cm": 4
+              },
+              "available": true
+            },
+            {
+              "size": "XL",
+              "measurements": {
+                "length_cm": 107,
+                "width_cm": 4
+              },
+              "available": true
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "coupons": [
+            {
+              "code": "VHSAVE750",
+              "discount": 675,
+              "min_purchase": 6500,
+              "description": "Get Rs 750 Off On Min Purchase Of Rs 6500"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "store_locations": {
+    "MG_ROAD_01": {
+      "name": "Pantaloons MG Road",
+      "address": "Garuda Mall, Magrath Road, Bangalore - 560025",
+      "distance_km": 0,
+      "coordinates": {
+        "lat": 12.9722,
+        "lng": 77.6192
+      }
+    },
+    "KORAMANGALA_02": {
+      "name": "Pantaloons Koramangala",
+      "address": "Forum Mall, Koramangala, Bangalore - 560034",
+      "distance_km": 5.2,
+      "coordinates": {
+        "lat": 12.9352,
+        "lng": 77.6245
+      }
+    },
+    "INDIRANAGAR_03": {
+      "name": "Pantaloons Indiranagar",
+      "address": "100 Feet Road, Indiranagar, Bangalore - 560038",
+      "distance_km": 3.8,
+      "coordinates": {
+        "lat": 12.9716,
+        "lng": 77.6412
+      }
+    }
+  }
+}

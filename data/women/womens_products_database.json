@@ -1,0 +1,1042 @@
+{
+  "brands": {
+    "w_for_woman": {
+      "brand_name": "W",
+      "category": "contemporary_ethnic",
+      "parent_company": "TCNS Clothing Co. Ltd",
+      "products": [
+        {
+          "product_id": "W-TOP-WHITE-001",
+          "name": "W White Floral Printed Round Neck Cotton Top",
+          "product_code": "23087250",
+          "price": 1699,
+          "discount_price": 820,
+          "discount_percent": 52,
+          "description": "White regular top with floral print. Features round neck, three-quarter regular sleeves with button closure. Perfect for casual occasions with its fresh and feminine design.",
+          "material": "100% Cotton",
+          "fit": "Regular",
+          "neck": "Round Neck",
+          "color": "White",
+          "occasion": "Casual",
+          "pattern": "Floral Printed",
+          "sleeves": "Three-Quarter Sleeves",
+          "sleeve_styling": "Regular Sleeves",
+          "closure": "Button",
+          "length": "Regular",
+          "transparency": "Opaque",
+          "weave_type": "Woven",
+          "product_type": "Top",
+          "product_url": "women/W White Floral Printed Round Neck Cotton Top.png",
+          "stock_status": "in_stock",
+          "low_stock_sizes": [
+            "XS",
+            "M"
+          ],
+          "sizes": [
+            {
+              "size": "XS",
+              "brand_size": "6",
+              "measurements": {
+                "bust_in": 31.0,
+                "front_length_in": 28.0,
+                "waist_in": 28.0
+              },
+              "available": true,
+              "stock_level": "low"
+            },
+            {
+              "size": "S",
+              "brand_size": "8",
+              "measurements": {
+                "bust_in": 34.0,
+                "front_length_in": 28.0,
+                "waist_in": 31.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "M",
+              "brand_size": "10",
+              "measurements": {
+                "bust_in": 36.0,
+                "front_length_in": 29.0,
+                "waist_in": 33.0
+              },
+              "available": true,
+              "stock_level": "low"
+            },
+            {
+              "size": "M/L",
+              "brand_size": "12",
+              "measurements": {
+                "bust_in": 38.0,
+                "front_length_in": 29.0,
+                "waist_in": 35.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "L",
+              "brand_size": "14",
+              "measurements": {
+                "bust_in": 39.0,
+                "front_length_in": 29.0,
+                "waist_in": 37.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "XL",
+              "brand_size": "16",
+              "measurements": {
+                "bust_in": 41.0,
+                "front_length_in": 29.0,
+                "waist_in": 39.0
+              },
+              "available": true,
+              "stock_level": "low"
+            },
+            {
+              "size": "XXL",
+              "brand_size": "18",
+              "measurements": {
+                "bust_in": 46.0,
+                "front_length_in": 29.0,
+                "waist_in": 44.0
+              },
+              "available": true,
+              "stock_level": "low"
+            }
+          ],
+          "reviews": 110,
+          "rating": 4.2,
+          "model_info": "The model (height 5'8\") is wearing a size S",
+          "coupons": [
+            {
+              "code": "EORSFEST",
+              "discount_percent": 35,
+              "final_price": 533,
+              "min_purchase": 198,
+              "description": "35% off on orders above Rs. 198 (only on first purchase)"
+            },
+            {
+              "code": "ICICI_CC",
+              "discount_percent": 10,
+              "max_discount": 750,
+              "min_spend": 3500,
+              "description": "10% Instant Discount on ICICI Bank Credit Card"
+            }
+          ]
+        },
+        {
+          "product_id": "W-PALAZZO-PINK-001",
+          "name": "W Women Pink Printed Flared Palazzos",
+          "product_code": "2223871",
+          "price": 1999,
+          "discount_price": 859,
+          "discount_percent": 57,
+          "description": "Pink printed woven flared palazzos with hook-and-eye and zip closure. Made from premium Liva fabric for ultimate comfort and style.",
+          "material": "100% Viscose Rayon",
+          "fabric_type": "Liva",
+          "fit": "Flared",
+          "color": "Pink",
+          "occasion": "Casual",
+          "pattern": "Printed",
+          "length": "Regular",
+          "transparency": "Opaque",
+          "closure": "Hook and Eye",
+          "waistband": "Partially Elasticated",
+          "wash_care": "Dry Clean",
+          "weave_type": "Woven",
+          "product_type": "Palazzos",
+          "product_url": "women/W Women Pink Printed Flared Palazzos.png",
+          "stock_status": "in_stock",
+          "sizes": [
+            {
+              "size": "28",
+              "brand_size": "S",
+              "measurements": {
+                "waist_in": 28.0,
+                "inseam_length_in": 26.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "30",
+              "brand_size": "M",
+              "measurements": {
+                "waist_in": 30.0,
+                "inseam_length_in": 26.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "32",
+              "brand_size": "L",
+              "measurements": {
+                "waist_in": 32.0,
+                "inseam_length_in": 26.3
+              },
+              "available": true,
+              "stock_level": "good"
+            }
+          ],
+          "reviews": 113,
+          "rating": 4.0,
+          "model_info": "The model (height 5'8\") is wearing a size 28",
+          "styling_tip": "When the temperatures rise, rock these comfortable and stylish pink palazzos. Pair them with a sleek tank and gladiator sandals for a chic look.",
+          "coupons": [
+            {
+              "code": "EORS35",
+              "discount_percent": 35,
+              "final_price": 558,
+              "min_purchase": 300,
+              "description": "35% off on orders above Rs. 300 (only on first purchase)"
+            }
+          ]
+        }
+      ]
+    },
+    "aurelia": {
+      "brand_name": "Aurelia",
+      "category": "contemporary_ethnic",
+      "parent_company": "TCNS Clothing Co. Ltd",
+      "products": [
+        {
+          "product_id": "AUR-LEG-BLACK-001",
+          "name": "Aurelia Women Mid-Rise Cotton Churidar Length Leggings",
+          "product_code": "32265008",
+          "price": 599,
+          "discount_price": 599,
+          "discount_percent": 0,
+          "description": "Black solid churidar-length mid-rise leggings with elasticated waistband and slip-on closure. Made from comfortable cotton fabric.",
+          "material": "Cotton",
+          "fit": "Regular",
+          "color": "Black",
+          "occasion": "Casual",
+          "pattern": "Solid",
+          "length": "Churidar Length",
+          "closure": "Slip-On",
+          "wash_care": "Machine Wash",
+          "weave_type": "Machine Weave",
+          "product_type": "Leggings",
+          "product_url": "women/AURELIA Women Mid-Rise Cotton Churidar Length Leggings.png",
+          "stock_status": "in_stock",
+          "sizes": [
+            {
+              "size": "XS",
+              "measurements": {
+                "waist_in": 24.0,
+                "outseam_length_in": 42.0,
+                "inseam_length_in": 35.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "S",
+              "measurements": {
+                "waist_in": 26.0,
+                "outseam_length_in": 42.0,
+                "inseam_length_in": 34.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "M",
+              "measurements": {
+                "waist_in": 28.0,
+                "outseam_length_in": 42.0,
+                "inseam_length_in": 33.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "L",
+              "measurements": {
+                "waist_in": 30.0,
+                "outseam_length_in": 42.0,
+                "inseam_length_in": 32.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "XL",
+              "measurements": {
+                "waist_in": 32.0,
+                "outseam_length_in": 42.0,
+                "inseam_length_in": 31.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "XXL",
+              "measurements": {
+                "waist_in": 35.0,
+                "outseam_length_in": 42.0,
+                "inseam_length_in": 30.0
+              },
+              "available": true,
+              "stock_level": "good"
+            }
+          ],
+          "reviews": 12,
+          "rating": 4.3,
+          "model_info": "The model (height 5'8\") is wearing a size S",
+          "coupons": [
+            {
+              "code": "EORS35",
+              "discount_percent": 35,
+              "final_price": 389,
+              "min_purchase": 300,
+              "description": "35% off on orders above Rs. 300 (only on first purchase)"
+            }
+          ]
+        },
+        {
+          "product_id": "AUR-KURTA-MULTI-001",
+          "name": "Aurelia Floral Embroidered Straight Kurta",
+          "product_code": "32121619",
+          "price": 1499,
+          "discount_price": 880,
+          "discount_percent": 41,
+          "description": "White, blue and green floral embroidered kurta with V-neck and long regular sleeves. Features thread work detail with straight shape and regular style.",
+          "material": "Viscose Rayon",
+          "fit": "Straight",
+          "neck": "V-Neck",
+          "color": "White, Blue, Green",
+          "occasion": "Casual",
+          "pattern": "Floral Embroidered",
+          "sleeves": "Long Sleeves",
+          "sleeve_styling": "Regular Sleeves",
+          "ornamentation": "Thread Work",
+          "hemline": "Straight",
+          "length": "Above Knee",
+          "wash_care": "Hand Wash",
+          "weave_pattern": "Regular",
+          "product_type": "Kurta",
+          "product_url": "women/AURELIA Floral Embroidered Straight Kurta.png",
+          "stock_status": "in_stock",
+          "low_stock_sizes": [
+            "M"
+          ],
+          "sizes": [
+            {
+              "size": "XS",
+              "measurements": {
+                "bust_in": 34.0,
+                "waist_in": 31.0,
+                "front_length_in": 34.0,
+                "hips_in": 38.0,
+                "across_shoulder_in": 14.0,
+                "sleeve_length_in": 21.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "S",
+              "measurements": {
+                "bust_in": 36.0,
+                "waist_in": 33.0,
+                "front_length_in": 34.0,
+                "hips_in": 40.4,
+                "across_shoulder_in": 14.3,
+                "sleeve_length_in": 21.3
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "M",
+              "measurements": {
+                "bust_in": 38.5,
+                "waist_in": 36.5,
+                "front_length_in": 34.0,
+                "hips_in": 42.9,
+                "across_shoulder_in": 14.5,
+                "sleeve_length_in": 21.8
+              },
+              "available": true,
+              "stock_level": "low"
+            },
+            {
+              "size": "L",
+              "measurements": {
+                "bust_in": 41.5,
+                "waist_in": 39.5,
+                "front_length_in": 34.0,
+                "hips_in": 45.9,
+                "across_shoulder_in": 15.0,
+                "sleeve_length_in": 21.8
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "XL",
+              "measurements": {
+                "bust_in": 44.0,
+                "waist_in": 42.0,
+                "front_length_in": 34.0,
+                "hips_in": 48.4,
+                "across_shoulder_in": 15.5,
+                "sleeve_length_in": 22.3
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "XXL",
+              "measurements": {
+                "bust_in": 48.0,
+                "waist_in": 46.0,
+                "front_length_in": 34.0,
+                "hips_in": 52.4,
+                "across_shoulder_in": 16.0,
+                "sleeve_length_in": 22.3
+              },
+              "available": true,
+              "stock_level": "good"
+            }
+          ],
+          "reviews": 7,
+          "rating": 4.4,
+          "model_info": "The model (height 5'8\") is wearing a size S",
+          "coupons": [
+            {
+              "code": "EORS35",
+              "discount_percent": 35,
+              "final_price": 572,
+              "min_purchase": 300,
+              "description": "35% off on orders above Rs. 300 (only on first purchase)"
+            }
+          ]
+        },
+        {
+          "product_id": "AUR-PALAZZO-WHITE-001",
+          "name": "Aurelia Women Printed Ethnic Palazzos",
+          "product_code": "19188620",
+          "price": 999,
+          "discount_price": 680,
+          "discount_percent": 32,
+          "description": "White woven palazzos with geometric print. Features straight fit with partially elasticated waistband and slip-on closure.",
+          "material": "100% Cotton",
+          "fit": "Straight",
+          "color": "White",
+          "occasion": "Ethnic",
+          "pattern": "Geometric Printed",
+          "length": "Regular",
+          "transparency": "Opaque",
+          "closure": "Slip-On",
+          "waistband": "Partially Elasticated",
+          "wash_care": "Machine Wash",
+          "weave_type": "Woven",
+          "product_type": "Palazzos",
+          "product_url": "women/AURELIA Women Printed Ethnic Palazzos.png",
+          "stock_status": "limited",
+          "sizes": [
+            {
+              "size": "26",
+              "brand_size": "S",
+              "measurements": {
+                "garment_waist_in": 26.0,
+                "hips_in": 40.0,
+                "waist_in": 26.0,
+                "inseam_length_in": 25.0,
+                "outseam_length_in": 37.0
+              },
+              "available": true,
+              "stock_level": "limited"
+            }
+          ],
+          "reviews": 5,
+          "rating": 2.0,
+          "model_info": "The model (height 5'8\") is wearing a size S",
+          "styling_tip": "Mix them up with our printed kurta and drape to get to style up your perfect look.",
+          "seller": "ADITYA BIRLA FASHION AND RETAIL LIMITED",
+          "coupons": [
+            {
+              "code": "EORS35",
+              "discount_percent": 35,
+              "final_price": 442,
+              "min_purchase": 300,
+              "description": "35% off on orders above Rs. 300 (only on first purchase)"
+            }
+          ]
+        }
+      ]
+    },
+    "wishful": {
+      "brand_name": "Wishful by W",
+      "category": "premium_contemporary",
+      "parent_company": "TCNS Clothing Co. Ltd",
+      "products": [
+        {
+          "product_id": "WISH-TRS-BLACK-001",
+          "name": "Wishful by W Women Black Regular Fit Solid Drop Crotch Trousers",
+          "product_code": "8982695",
+          "price": 1999,
+          "discount_price": 1200,
+          "discount_percent": 40,
+          "description": "Black solid mid-rise drop-crotch trousers with sequinned hem and slip-on closure. Perfect for elevated day looks and evening occasions.",
+          "material": "100% Man-made fibre",
+          "fit": "Regular Fit",
+          "waist_rise": "Mid-Rise",
+          "color": "Black",
+          "occasion": "Casual, Evening",
+          "pattern": "Solid",
+          "length": "Regular",
+          "closure": "Slip-On",
+          "pleat_type": "Flat-Front",
+          "weave_type": "Woven",
+          "fly_type": "No Fly",
+          "features": "Plain, Sequinned Hem",
+          "wash_care": "Dry Clean",
+          "product_type": "Trousers",
+          "product_url": "women/Wishful by W Women Black Regular Fit Solid Drop Crotch Trousers.png",
+          "stock_status": "limited",
+          "low_stock_sizes": [
+            "30",
+            "32"
+          ],
+          "sizes": [
+            {
+              "size": "30",
+              "brand_size": "WS",
+              "measurements": {
+                "waist_in": 30.0,
+                "inseam_length_in": 34.4,
+                "outseam_length_in": 39.5
+              },
+              "available": true,
+              "stock_level": "very_low"
+            },
+            {
+              "size": "32",
+              "brand_size": "WM",
+              "measurements": {
+                "waist_in": 32.0,
+                "inseam_length_in": 34.9,
+                "outseam_length_in": 39.9
+              },
+              "available": true,
+              "stock_level": "very_low"
+            },
+            {
+              "size": "34",
+              "brand_size": "WL",
+              "measurements": {
+                "waist_in": 34.0,
+                "inseam_length_in": 35.6,
+                "outseam_length_in": 40.3
+              },
+              "available": true,
+              "stock_level": "good"
+            }
+          ],
+          "reviews": 10,
+          "rating": 4.2,
+          "model_info": "The model (height 5'8\") is wearing a size 32",
+          "styling_tip": "These latest trousers from W will give you style and comfort. Maximise the potential of any coffee date by pairing with wedge heels.",
+          "return_policy": "Items like innerwear, socks, certain accessories and some high-value fragile items do not come under our return policy",
+          "coupons": [
+            {
+              "code": "EORS35",
+              "discount_percent": 35,
+              "final_price": 850,
+              "min_purchase": 300,
+              "description": "35% off on orders above Rs. 300 (only on first purchase)"
+            }
+          ]
+        }
+      ]
+    },
+    "elleven": {
+      "brand_name": "Elleven",
+      "category": "contemporary_casual",
+      "parent_company": "TCNS Clothing Co. Ltd",
+      "products": [
+        {
+          "product_id": "ELL-TRS-WHITE-001",
+          "name": "Elleven Women Mid-Rise Skinny Fit Bootcut Trouser",
+          "product_code": "28023604",
+          "price": 1699,
+          "discount_price": 860,
+          "discount_percent": 49,
+          "description": "White knitted bootcut trouser with skinny fit and mid-rise. Features flat-front design with zip fly and 2 pockets.",
+          "material": "Net",
+          "fit": "Bootcut, Skinny Fit",
+          "waist_rise": "Mid-Rise",
+          "color": "White",
+          "occasion": "Casual",
+          "pattern": "Solid",
+          "length": "Regular",
+          "closure": "Slip-On",
+          "pleat_type": "Flat-Front",
+          "weave_type": "Knitted",
+          "fly_type": "Zip",
+          "features": "Plain",
+          "pockets": 2,
+          "wash_care": "Machine Wash",
+          "product_type": "Trousers",
+          "product_url": "women/Elleven Women Mid-Rise Skinny Fit Bootcut Trouser.png",
+          "stock_status": "in_stock",
+          "sizes": [
+            {
+              "size": "24",
+              "brand_size": "XS",
+              "measurements": {
+                "waist_in": 24.0,
+                "inseam_length_in": 28.3
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "26",
+              "brand_size": "S",
+              "measurements": {
+                "waist_in": 26.0,
+                "inseam_length_in": 28.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "28",
+              "brand_size": "M",
+              "measurements": {
+                "waist_in": 28.0,
+                "inseam_length_in": 27.5
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "31",
+              "brand_size": "L",
+              "measurements": {
+                "waist_in": 31.0,
+                "inseam_length_in": 27.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "33",
+              "brand_size": "XL",
+              "measurements": {
+                "waist_in": 33.0,
+                "inseam_length_in": 26.5
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "36",
+              "brand_size": "XXL",
+              "measurements": {
+                "waist_in": 36.0,
+                "inseam_length_in": 26.0
+              },
+              "available": true,
+              "stock_level": "good"
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "model_info": "The model (height 5'8\") is wearing a size 28",
+          "return_policy": "Easy 7 days returns and exchanges",
+          "coupons": [
+            {
+              "code": "EORS35",
+              "discount_percent": 35,
+              "final_price": 559,
+              "min_purchase": 300,
+              "description": "35% off on orders above Rs. 300 (only on first purchase)"
+            }
+          ]
+        }
+      ]
+    },
+    "folksong": {
+      "brand_name": "Folk Song",
+      "category": "artisan_ethnic",
+      "parent_company": "TCNS Clothing Co. Ltd",
+      "products": [
+        {
+          "product_id": "FOLK-COORD-BLUE-001",
+          "name": "Folk Song Embroidered Pure Cotton Tunic With Trouser Co-Ords",
+          "product_code": "33627553",
+          "price": 5999,
+          "discount_price": 5999,
+          "discount_percent": 0,
+          "description": "Blue & white embroidered tunic with round-neck and long sleeves, paired with blue solid trouser with elasticated waistband and drawstring closure. Made from pure cotton.",
+          "material": "Pure Cotton",
+          "color": "Blue, White",
+          "occasion": "Casual",
+          "pattern": "Embroidered, Solid",
+          "product_type": "Co-Ords",
+          "top_type": "Tunic",
+          "bottom_type": "Trousers",
+          "neck": "Mandarin Collar",
+          "sleeves": "Long Sleeves",
+          "top_closure": "Slip-On",
+          "bottom_closure": "Drawstring",
+          "pockets": 2,
+          "wash_care": "Hand Wash",
+          "stitch": "Ready to Wear",
+          "product_url": "women/Folk Song Embroidered Pure Cotton Tunic With Trouser Co-Ords.png",
+          "stock_status": "in_stock",
+          "sizes": [
+            {
+              "size": "XS",
+              "measurements": {
+                "front_length_in": 28.0,
+                "inseam_length_in": 25.8,
+                "outseam_length_in": 36.0,
+                "hip_in": 39.4,
+                "waist_in": 26.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "S",
+              "measurements": {
+                "front_length_in": 28.0,
+                "inseam_length_in": 25.5,
+                "outseam_length_in": 36.0,
+                "hip_in": 41.4,
+                "waist_in": 28.0
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "M",
+              "measurements": {
+                "front_length_in": 29.0,
+                "inseam_length_in": 25.5,
+                "outseam_length_in": 36.5,
+                "hip_in": 43.1,
+                "waist_in": 30.1
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "L",
+              "measurements": {
+                "front_length_in": 29.0,
+                "inseam_length_in": 25.0,
+                "outseam_length_in": 36.5,
+                "hip_in": 44.9,
+                "waist_in": 32.3
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "XL",
+              "measurements": {
+                "front_length_in": 29.0,
+                "inseam_length_in": 24.8,
+                "outseam_length_in": 37.0,
+                "hip_in": 48.0,
+                "waist_in": 35.8
+              },
+              "available": true,
+              "stock_level": "good"
+            },
+            {
+              "size": "XXL",
+              "measurements": {
+                "front_length_in": 29.0,
+                "inseam_length_in": 24.0,
+                "outseam_length_in": 37.0,
+                "hip_in": 51.1,
+                "waist_in": 39.3
+              },
+              "available": true,
+              "stock_level": "good"
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "model_info": "The model (height 5.8\") is wearing a size S",
+          "number_of_items": 2,
+          "return_policy": "Easy 7 days returns and exchanges",
+          "coupons": [
+            {
+              "code": "MYNTRA500",
+              "discount": 500,
+              "final_price": 5499,
+              "min_purchase": 2999,
+              "description": "Rs. 500 off on orders above Rs. 2999 (only on first purchase)"
+            }
+          ]
+        }
+      ]
+    },
+    "pantaloons_accessories": {
+      "brand_name": "Forever Glam by Pantaloons",
+      "category": "fashion_accessories",
+      "parent_company": "Aditya Birla Fashion & Retail Ltd",
+      "products": [
+        {
+          "product_id": "PAN-BAG-TAN-001",
+          "name": "Forever Glam Tan Suede Hobo Shoulder Bag",
+          "product_code": "1173918",
+          "price": 1299,
+          "discount_price": 1299,
+          "discount_percent": 0,
+          "description": "Softly sculpted and effortlessly chic, this shoulder bag channels relaxed sophistication. The slouchy silhouette is rendered in a plush suede finish, complemented by a broad adjustable strap with gold hardware.",
+          "material": "PU",
+          "color": "Tan",
+          "pattern": "Solid",
+          "product_type": "Shoulder Bag",
+          "bag_type": "Hobo",
+          "finish": "Suede",
+          "closure": "Zip",
+          "features": "Adjustable Strap, Gold Hardware, Roomy Interior",
+          "product_url": "women/Forever Glam Tan Suede Hobo Shoulder Bag.png",
+          "stock_status": "in_stock",
+          "sku": "8909230885147",
+          "sizes": [
+            {
+              "size": "Onesize",
+              "available": true,
+              "stock_level": "good"
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "care_instructions": [
+            "Do not submerge in water",
+            "Wipe with a dry cotton cloth",
+            "Clean with a soft brush or hard sponge",
+            "Uncolored waxes or creams can be used",
+            "Can be protected with treatment sprays"
+          ],
+          "return_policy": "30 days return",
+          "shipping": "All India FREE Shipping on Orders above Rs. 999",
+          "coupons": [
+            {
+              "code": "PTWELCOME10",
+              "discount_percent": 10,
+              "min_purchase": 1599,
+              "description": "Extra 10% Off on your 1st order above Rs 1599"
+            },
+            {
+              "code": "EXTRABOSS20",
+              "discount_percent": 20,
+              "min_purchase": 5499,
+              "description": "Extra 20% Off on purchase of Rs.5499"
+            }
+          ]
+        },
+        {
+          "product_id": "PAN-BAG-WHITE-001",
+          "name": "Forever Glam Off-White Buckle Detail Structured Shoulder Bag",
+          "product_code": "1173916",
+          "price": 1599,
+          "discount_price": 1599,
+          "discount_percent": 0,
+          "description": "Defined by graceful curves and gold-toned accents, this shoulder bag brings polish to your ensemble. The structured silhouette features curved seam detailing, front flap with statement buckle.",
+          "material": "PU",
+          "color": "Off White",
+          "pattern": "Solid",
+          "product_type": "Shoulder Bag",
+          "bag_type": "Structured",
+          "features": "Buckle Detail, Curved Seam, Statement Hardware",
+          "product_url": "women/Forever Glam Off-White Buckle Detail Structured Shoulder Bag.png",
+          "stock_status": "in_stock",
+          "sku": "8909230885376",
+          "sizes": [
+            {
+              "size": "Onesize",
+              "available": true,
+              "stock_level": "good"
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "care_instructions": [
+            "Do not submerge in water",
+            "Wipe with a dry cotton cloth",
+            "Clean with a soft brush or hard sponge"
+          ],
+          "return_policy": "30 days return",
+          "shipping": "All India FREE Shipping on Orders above Rs. 999",
+          "coupons": [
+            {
+              "code": "PTWELCOME10",
+              "discount_percent": 10,
+              "min_purchase": 1599,
+              "description": "Extra 10% Off on your 1st order above Rs 1599"
+            }
+          ]
+        },
+        {
+          "product_id": "PAN-EAR-GOLD-001",
+          "name": "Forever Glam Yellow Solid Alloy Women Earrings",
+          "product_code": "1127673",
+          "price": 199,
+          "discount_price": 199,
+          "discount_percent": 0,
+          "description": "Bold and refined, these gold-toned earrings reinterpret classic elegance with a sculptural twist. Each piece features a fluid knot design that anchors a single pearl drop.",
+          "material": "Alloy",
+          "color": "Yellow/Gold",
+          "pattern": "Solid",
+          "product_type": "Earrings",
+          "style": "Pearl Drop with Knot Design",
+          "features": "Sculptural, Pearl Detail",
+          "product_url": "women/Forever Glam Yellow Solid Alloy Women Earrings.png",
+          "stock_status": "in_stock",
+          "sku": "8909230460276",
+          "quantity": 2,
+          "sizes": [
+            {
+              "size": "Onesize",
+              "available": true,
+              "stock_level": "good"
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "care_instructions": [
+            "Do not submerge in water",
+            "Wipe with a dry cotton cloth",
+            "Store separately to avoid scratches"
+          ],
+          "return_policy": "This product is not returnable",
+          "shipping": "All India FREE Shipping on Orders above Rs. 999",
+          "coupons": [
+            {
+              "code": "EXTRABOSS12",
+              "discount_percent": 12,
+              "min_purchase": 2999,
+              "description": "Extra 12% Off on purchase of Rs.2999"
+            }
+          ]
+        },
+        {
+          "product_id": "PAN-BRA-GOLD-001",
+          "name": "Forever Glam Yellow Solid Alloy Women Bracelet",
+          "product_code": "1127650",
+          "price": 249,
+          "discount_price": 249,
+          "discount_percent": 0,
+          "description": "Step into elegance with this easy-to-wear, lightweight bangle. The design features twin floral motifs—each centered with a luminous pearl, one framed by convex petals and the other by concave.",
+          "material": "Alloy",
+          "color": "Yellow/Gold",
+          "pattern": "Solid",
+          "product_type": "Bracelet",
+          "style": "Bangle with Floral Pearl Motifs",
+          "features": "Lightweight, Floral Design, Pearl Detail",
+          "product_url": "women/Forever Glam Yellow Solid Alloy Women Bracelet.png",
+          "stock_status": "in_stock",
+          "sku": "8909230460504",
+          "quantity": 1,
+          "sizes": [
+            {
+              "size": "Onesize",
+              "available": true,
+              "stock_level": "good"
+            }
+          ],
+          "reviews": 0,
+          "rating": 0,
+          "care_instructions": [
+            "Do not submerge in water",
+            "Wipe with a dry cotton cloth",
+            "Store separately"
+          ],
+          "return_policy": "This product is not returnable",
+          "shipping": "All India FREE Shipping on Orders above Rs. 999",
+          "coupons": [
+            {
+              "code": "EXTRABOSS15",
+              "discount_percent": 15,
+              "min_purchase": 4299,
+              "description": "Extra 15% Off on purchase of Rs.4299"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "store_locations": {
+    "MYNTRA_ONLINE": {
+      "name": "Myntra Online Store",
+      "website": "https://www.myntra.com",
+      "type": "E-commerce Platform",
+      "brands_available": [
+        "W",
+        "Aurelia",
+        "Wishful",
+        "Elleven",
+        "Folk Song"
+      ]
+    },
+    "PANTALOONS_ONLINE": {
+      "name": "Pantaloons Online Store",
+      "website": "https://www.pantaloons.com",
+      "type": "E-commerce Platform",
+      "brands_available": [
+        "Forever Glam Accessories"
+      ]
+    },
+    "TCNS_STORES": {
+      "name": "TCNS Brand Stores",
+      "website": "https://www.tcnsclothing.com",
+      "type": "Retail Stores",
+      "brands_available": [
+        "W",
+        "Aurelia",
+        "Wishful",
+        "Elleven",
+        "Folk Song"
+      ],
+      "pan_india_presence": true
+    }
+  },
+  "metadata": {
+    "total_products": 12,
+    "total_brands": 6,
+    "parent_companies": [
+      "TCNS Clothing Co. Ltd",
+      "Aditya Birla Fashion & Retail Ltd"
+    ],
+    "product_categories": [
+      "Tops",
+      "Palazzos",
+      "Leggings",
+      "Kurtas",
+      "Trousers",
+      "Co-Ords",
+      "Accessories"
+    ],
+    "price_range": {
+      "min": 199,
+      "max": 5999
+    },
+    "discount_range": {
+      "min": 0,
+      "max": 57
+    },
+    "created_date": "2025-12-10",
+    "version": "1.0"
+  }
+}
